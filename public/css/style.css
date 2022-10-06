@@ -1,0 +1,19 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    overflow: hidden;
+}
+
+.ui {
+    z-index: 1000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: transparent;
+    color: white;
+    font: 20px monospace;
+}
